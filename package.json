@@ -1,0 +1,23 @@
+{
+  "name": "sia",
+  "version": "0.0.1",
+  "description": "Shop Items Availability",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NedloGlitch/SIA.git"
+  },
+  "author": "NedloG",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/NedloGlitch/SIA/issues"
+  },
+  "homepage": "https://github.com/NedloGlitch/SIA#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
